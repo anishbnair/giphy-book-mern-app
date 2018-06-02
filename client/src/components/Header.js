@@ -6,6 +6,22 @@ const Header = props => (
       <h4>
         <i className="fa fa-folder-open" />GiphyBook
       </h4>
+      {props.isAuth ? (
+        <div className="input-wrap">
+          <input
+            type="text"
+            name="search"
+            className="search"
+            placeholder="Search"
+            onKeyUp={props.getSearchResults}
+            onChange={props.handleChange}
+            value={props.search}
+          />
+          <i className="fa fa-search" onClick={props.getSearchResults} />
+        </div>
+      ) : (
+        ""
+      )}
     </div>
     {props.isAuth ? (
       <div className="row">
