@@ -43,7 +43,7 @@ class App extends Component {
 
         <footer className="row split y-center">
           <p>&copy; {new Date().getFullYear()} GiphyBook</p>
-          <p>Created By JD Tadlock | Central Support</p>
+          <p>Created By Anish B Nair</p>
         </footer>
          
       </main>
