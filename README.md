@@ -1,6 +1,6 @@
 # GIPHY-BOOK
 
-A giphy search app 
+A giphy search app using React.js and Redux.
 
 ## Technologies Used:
 
@@ -15,6 +15,5 @@ A giphy search app
 * `Bootstrap`
 * `react-bootstrap`
 * `axios`
-* `body-parser`
 * `CSS`
 * `HTML`
