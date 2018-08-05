@@ -1,6 +1,6 @@
 # GIPHY-BOOK
 
-A giphy search app using React.js and Redux.
+A giphy search app using React.js, MongoDB and Redux.
 
 ## Technologies Used:
 
