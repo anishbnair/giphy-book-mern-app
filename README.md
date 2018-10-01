@@ -2,7 +2,6 @@
 
 A giphy search app using React.js, MongoDB and Redux.
 
-
 ## Technologies Used:
 
 * `React.js`
