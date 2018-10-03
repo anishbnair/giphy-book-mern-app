@@ -17,3 +17,4 @@ A giphy search app using React.js, MongoDB and Redux.
 * `axios`
 * `CSS`
 * `HTML`
+
